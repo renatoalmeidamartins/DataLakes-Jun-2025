@@ -30,4 +30,5 @@
 - [Alternatives for a data mesh in AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/strategy-data-mesh/aws-offerings-data-mesh.html)
 - [Lake formation LF-Tags](https://docs.aws.amazon.com/lake-formation/latest/dg/tag-based-access-control.html)
 - [Cross-account links](https://docs.aws.amazon.com/lake-formation/latest/dg/cross-account-permissions.html)
-- 
+- [Well architected framework](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc)
+- [Well architected framework - Data analytics lens](https://aws.amazon.com/blogs/big-data/announcing-the-aws-well-architected-data-analytics-lens/)
