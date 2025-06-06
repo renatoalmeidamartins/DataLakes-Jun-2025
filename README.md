@@ -22,4 +22,6 @@
 - [Data mesh architecture purely using glue and lake formation](https://aws.amazon.com/blogs/big-data/design-a-data-mesh-architecture-using-aws-lake-formation-and-aws-glue/)
 - [Data mesh architecture using AWS data zone](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/data-mesh-with-amazon-datazone.pdf?did=wp_card&trk=wp_card)
 - [Alternatives for a data mesh in AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/strategy-data-mesh/aws-offerings-data-mesh.html)
+- [Lake formation LF-Tags](https://docs.aws.amazon.com/lake-formation/latest/dg/tag-based-access-control.html)
+- [Cross-account links](https://docs.aws.amazon.com/lake-formation/latest/dg/cross-account-permissions.html)
 - 
