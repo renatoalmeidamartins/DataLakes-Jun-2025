@@ -16,3 +16,6 @@
 - [Announcement, back in 2020, of strong read-after-write consistency on S3](https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/)
 - [Glue custom classifiers](https://docs.aws.amazon.com/glue/latest/dg/custom-classifier.html)
 - [Tipos for optimizing Athena](https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-tips-for-amazon-athena/) - this applies to any type of data storage on S3
+- [Enforce secure transport on S3 buckets](https://repost.aws/knowledge-center/s3-bucket-policy-for-config-rule)
+- [Encrypting S3 data using KMS can be expensive. Costs can be reduced by using bucket keys](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucket-key.html)
+- 
