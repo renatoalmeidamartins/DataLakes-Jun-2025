@@ -18,4 +18,6 @@
 - [Tipos for optimizing Athena](https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-tips-for-amazon-athena/) - this applies to any type of data storage on S3
 - [Enforce secure transport on S3 buckets](https://repost.aws/knowledge-center/s3-bucket-policy-for-config-rule)
 - [Encrypting S3 data using KMS can be expensive. Costs can be reduced by using bucket keys](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucket-key.html)
+- [Data governance at scale, powerful book about data meshes](https://www.oreilly.com/library/view/data-management-at/9781098138851/)
+- [Data mesh architecture purely using glue and lake formation](https://aws.amazon.com/blogs/big-data/design-a-data-mesh-architecture-using-aws-lake-formation-and-aws-glue/)
 - 
