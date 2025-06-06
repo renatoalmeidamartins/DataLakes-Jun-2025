@@ -11,3 +11,7 @@
 ## Class links
 - [Medallion architecture](https://www.databricks.com/glossary/medallion-architecture)
 - [Hitchihiker's guide to the data lake](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/) - replace ADLS Gen2 with S3 and mentions to Azure with AWS, and everything else applies to what we discussed
+- [Types of analytics described](https://online.hbs.edu/blog/post/types-of-data-analysis)
+- [Database Migration Step-by-Step Walkthroughs, typically using DMS](https://docs.aws.amazon.com/dms/latest/sbs/dms-sbs-welcome.html)
+- [Announcement, back in 2020, of strong read-after-write consistency on S3](https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/)
+- 
