@@ -15,3 +15,4 @@
 - [Database Migration Step-by-Step Walkthroughs, typically using DMS](https://docs.aws.amazon.com/dms/latest/sbs/dms-sbs-welcome.html)
 - [Announcement, back in 2020, of strong read-after-write consistency on S3](https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/)
 - [Glue custom classifiers](https://docs.aws.amazon.com/glue/latest/dg/custom-classifier.html)
+- [Tipos for optimizing Athena](https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-tips-for-amazon-athena/) - this applies to any type of data storage on S3
