@@ -20,4 +20,6 @@
 - [Encrypting S3 data using KMS can be expensive. Costs can be reduced by using bucket keys](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucket-key.html)
 - [Data governance at scale, powerful book about data meshes](https://www.oreilly.com/library/view/data-management-at/9781098138851/)
 - [Data mesh architecture purely using glue and lake formation](https://aws.amazon.com/blogs/big-data/design-a-data-mesh-architecture-using-aws-lake-formation-and-aws-glue/)
+- [Data mesh architecture using AWS data zone](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/data-mesh-with-amazon-datazone.pdf?did=wp_card&trk=wp_card)
+- [Alternatives for a data mesh in AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/strategy-data-mesh/aws-offerings-data-mesh.html)
 - 
