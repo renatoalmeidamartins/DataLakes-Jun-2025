@@ -32,3 +32,5 @@
 - [Cross-account links](https://docs.aws.amazon.com/lake-formation/latest/dg/cross-account-permissions.html)
 - [Well architected framework](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc)
 - [Well architected framework - Data analytics lens](https://aws.amazon.com/blogs/big-data/announcing-the-aws-well-architected-data-analytics-lens/)
+- [Kinesis Data Analytics - Flink](https://aws.amazon.com/blogs/aws/announcing-amazon-managed-service-for-apache-flink-renamed-from-amazon-kinesis-data-analytics/)
+- [Migrating from Kinesis Data Analytics to Flink - gives a good insight on the SQL differences](https://aws.amazon.com/blogs/big-data/migrate-from-amazon-kinesis-data-analytics-for-sql-applications-to-amazon-managed-service-for-apache-flink-studio/)
